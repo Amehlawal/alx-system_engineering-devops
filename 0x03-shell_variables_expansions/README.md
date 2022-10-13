@@ -17,4 +17,7 @@ This project helps in training on shell commands and variable expansions
 * 11-binary_to_decimal: converts a variable from binary to decimal
 * 12-combinations: prints all the combinations from a-z except "oo"
 * 13-print_float: prints a number with 2 decimal points
-* 14-decimal_to_hexadecimal: converts a variable from decimal to hexadecimal
+* 100-decimal_to_hexadecimal: converts a variable from decimal to hexadecimal
+* 101-rot13:encodes and decodes text using the rot13 encryption. Assume ASCII.
+* 102-odd:prints every other line from the input, starting with the first line.
+* 103-water_and_stir: adds the two numbers stored in the environment variables WATER and STIR and prints the result.
