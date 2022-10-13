@@ -18,7 +18,7 @@ This directory contains shell basic manipulation exercises
 * 12-file_type : prints the type of the file iamfile in tmp directory
 * 13-symbolic_link : creates a symbolic link named ls to /bin/ls
 * 14-copy_html : copies all HTML files from working to parent directory that does not exist
-* 15-lets_move : moves all files beginning with uppercase letter to tmp directory
-* 16-clean_emacs : deletes all files ending with "~" in working directory
-* 17-tree : creates series of directories
-* 18-commas : list files and directories of current directory ending with slash(/), sorted numerically and alphabetically, and include hidden files
+* 100-lets_move : moves all files beginning with uppercase letter to tmp directory
+* 101-clean_emacs : deletes all files ending with "~" in working directory
+* 102-tree : creates series of directories
+* 103-commas : list files and directories of current directory ending with slash(/), sorted numerically and alphabetically, and include hidden files
